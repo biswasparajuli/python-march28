@@ -1,6 +1,7 @@
 # Project about the Percentage
 # Percentage Slab for the project 100-80 (Distinction), 80-60 (First Division), 60-45 (second Division), 45-35 (Third Division) and Below 35 (fail)
-marks = 88
+done = input("Enter You secured marks")
+marks=int(done) 
 if( marks <=100 and marks >=80 ):
     print ("You have Secured Distinction, Congratulation")
 elif( marks <80 and marks >=60 ):

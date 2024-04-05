@@ -4,7 +4,8 @@
 # 60-45 (second Division), run business
 # 45-35 (Third Division), Foreign Employment 
 # Below 35 (fail), Study Again
-marks = 32
+done = input("Enter Your Secured Marks")
+marks=int(done)
 if( marks <=100 and marks >=80 ):
     print ("You have Secured Distinction, Congratulation")
     if(marks <=100 and marks >=90):

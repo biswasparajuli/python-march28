@@ -19,3 +19,8 @@ else:
     print ("Read Arts")
 if (2==2 or 1==4):
     print("Condition True")
+
+# Single Line If condition
+gender ="male"
+a = "Female" if gender=="male" else "Female"
+print (a)

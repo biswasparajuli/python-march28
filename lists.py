@@ -40,6 +40,6 @@ colour.pop()
 print( colour)
 # Clear
 colour.clear()
-print ("Test................", colour)
+print (colour)
 
 

@@ -18,3 +18,17 @@ a['c']=b
 print ("Test..............", a)
 print(a['c']['fruit_liked'])
 print(a['c']['fruit_liked'])
+
+data = {
+    'name': 'Biswas',
+    'phone': [{
+        'type': 'NTC',
+        'number': 9855013113
+    },
+    {
+        'type': 'NCELL',
+        'number': 9808595491
+    }],
+    'address': ['dang', 'kathmandu']
+}
+print ('Testing .........', data)

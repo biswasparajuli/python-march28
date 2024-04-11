@@ -10,7 +10,7 @@ print(a[:])
 print(a[::])
 # list in List
 data = [1,2,3,4,['Sudan', 'Test']]
-print(data[4][0])
+print('Now data ',data[4][0])
 # List Method
 # mutable
 # add data using append

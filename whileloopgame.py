@@ -1,6 +1,5 @@
 import random
 n = random.randint(1,5)
-print(n)
 i=0
 c=int(input(f'Enter a number: '))
 while (c!=n):

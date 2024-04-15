@@ -6,7 +6,7 @@ print(type(a))
 b = 25.265
 print(type(b))
 # str i.e. Word Data
-c = 'Apple'
+c = "Apple"
 print(type(c))
 # complex
 d = 2 + 3j

@@ -24,37 +24,37 @@ print("floor division of data", result6)
 # string add
 c = "Sudhan"
 d = " Bhandari"
-result7 = c + d 
-print ("Sum of 2 Strings", result7)
+result7 = c + d
+print("Sum of 2 Strings", result7)
 # Multiply String and Integer
 e = "Jolly Events and Entertainment "
 f = 5
 result8 = e * f
-print ("Multiply of Integer and String", result8)
+print("Multiply of Integer and String", result8)
 # Comparision operators
 # == equal to
-print ( 2 == 2 )
-print ( 2 == "2" )
-# != not equal to 
-print ( 44 != 33 )
+print(2 == 2)
+print(2 == "2")
+# != not equal to
+print(44 != 33)
 # > greater than
-print ( 20 > 30 )
+print(20 > 30)
 # < less than
-print ( 35 < 25 )
+print(35 < 25)
 # >= greater than equal to
-print ( 24 <= 12 ) 
-# <= less than equal to 
-print ( 35 >= 24 )
+print(24 <= 12)
+# <= less than equal to
+print(35 >= 24)
 # Logical Operators
 # and
-print ((77>=15) and (1==2))
+print((77 >= 15) and (1 == 2))
 # or
-print ( ( 77 >= 15 ) or ( 1 == 2 ) )
+print((77 >= 15) or (1 == 2))
 # not
-print ( not ( 77 >= 15 ) or ( 1==2 ))
+print(not (77 >= 15) or (1 == 2))
 # is
 x = 77
 y = 4
-print (x is y)
+print(x is y)
 # is not
-print (x is not y)
+print(x is not y)

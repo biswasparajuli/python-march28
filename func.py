@@ -37,7 +37,7 @@ print(a)
 
 
 def list_data(a):
-        print("list", a)
+    print("list", a)
 
 
 a = ["Apple", "Ball", 1, 2]

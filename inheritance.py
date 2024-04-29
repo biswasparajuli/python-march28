@@ -16,7 +16,7 @@ class Parent():
 
     def add(self):
         return self.a + self.b
-class Child(Parent()):
+class Child(Parent):
     def diff(self):
         return self.a - self.b
     def calc(self):
